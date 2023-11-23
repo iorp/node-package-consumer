@@ -1,0 +1,12 @@
+{
+    "name": "my-consumer-app",
+    "version": "1.0.0",
+    "description": "Consumer app for my-node-module",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "my-node-module": "^1.0.0"
+    }
+  }
